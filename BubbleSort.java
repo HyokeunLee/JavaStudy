@@ -3,7 +3,7 @@ public class BubbleSort {
 	public static void main(String[] args) {
 		/*
 		 *  BubbleSort Algorithm
-		 * 
+		 * 	GitTest
 		 */
 		
 	 int [] array = { 1, -3, 0, 9, 7 };
@@ -17,6 +17,7 @@ public class BubbleSort {
 		 System.out.println(i);
 	 }
 	}
+	
 	private static void bubbleSort(int array[]){
 		boolean isNeedsort = true; 
 		
